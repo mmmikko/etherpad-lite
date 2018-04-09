@@ -1,0 +1,16 @@
+{
+  "name": "etherpad-lite",
+  "description": "Etherpad Lite collaborative writing",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
